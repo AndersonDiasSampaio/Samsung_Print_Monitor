@@ -1,0 +1,27 @@
+[
+    {
+        "ip": "10.36.150.97",
+        "community": "public",
+        "name": "Triagem"
+    },
+    {
+        "ip": "10.36.150.98",
+        "community": "public",
+        "name": "Verde"
+    },
+    {
+        "ip": "10.36.150.94",
+        "community": "public",
+        "name": "Emergencia"
+    },
+    {
+        "ip": "10.36.150.95",
+        "community": "public",
+        "name": "Eletiva"
+    },
+    {
+        "ip": "10.36.150.96",
+        "community": "public",
+        "name": "CR"
+    }
+]
